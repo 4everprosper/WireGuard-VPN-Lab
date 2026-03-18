@@ -45,11 +45,15 @@ SSH (port 22) and WireGuard UDP (port 51820).
 - ISP showed as Microsoft Corporation confirming successful tunnel
 
 ## Screenshots
-| Screenshot | Description |
-|---|---|
-| Azure Portal | VPN-Server-01 VM running in cloud |
-| WireGuard App | Active tunnel with successful handshake |
-| IP Verification | Public IP showing Azure server address |
+
+### Azure Portal — VPN Server Running in Cloud
+![Azure Portal](azure-portal-vpn.jpeg)
+
+### WireGuard — Active VPN Tunnel
+![WireGuard Active](wireguard-active.jpeg)
+
+### IP Verification — Traffic Routing Through Azure
+![IP Verification](ip-verification.jpeg)
 
 ## Skills Demonstrated
 - Linux server administration (Ubuntu)
