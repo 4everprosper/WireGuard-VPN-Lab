@@ -67,4 +67,4 @@ SSH (port 22) and WireGuard UDP (port 51820).
 in Microsoft Azure. Managed SSH access, IPTables rules, and 
 encryption key pairs. Verified secure tunnel routing from macOS 
 client to cloud server."
-```
+
