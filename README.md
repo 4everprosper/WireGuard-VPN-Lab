@@ -47,14 +47,13 @@ SSH (port 22) and WireGuard UDP (port 51820).
 ## Screenshots
 
 ### Azure Portal — VPN Server Running in Cloud
-![Azure Portal](azure-portal-vpn.jpeg)
+![Azure Portal](azure-portal-vpn.png)
 
 ### WireGuard — Active VPN Tunnel
-![WireGuard Active](wireguard-active.jpeg)
+![WireGuard Active](wireguard-active.png)
 
 ### IP Verification — Traffic Routing Through Azure
 ![IP Verification](ip-verification.jpeg)
-
 ## Skills Demonstrated
 - Linux server administration (Ubuntu)
 - SSH remote access and management
